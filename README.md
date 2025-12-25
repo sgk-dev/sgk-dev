@@ -15,59 +15,60 @@
 - Experience building and maintaining long-living web projects  
 
 ---
+
 ### Tech stack
 
 **Backend / Data**
 <p align="left">
-  <a href="https://www.python.org/" rel="nofollow">
+  <a href="https://www.python.org/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   </a>
-  <a href="https://www.php.net/" rel="nofollow">
+  <a href="https://www.php.net/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
   </a>
-  <a href="https://www.postgresql.org/" rel="nofollow">
+  <a href="https://www.postgresql.org/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
   </a>
-  <a href="https://www.mysql.com/" rel="nofollow">
+  <a href="https://www.mysql.com/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   </a>
 </p>
 
 **Frontend**
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   </a>
-  <a href="https://lesscss.org/" rel="nofollow">
+  <a href="https://lesscss.org/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="40" alt="LESS" />
   </a>
-  <a href="https://sass-lang.com/" rel="nofollow">
+  <a href="https://sass-lang.com/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass" />
   </a>
 </p>
 
 **DevOps / Tools**
 <p align="left">
-  <a href="https://www.docker.com/" rel="nofollow">
+  <a href="https://www.docker.com/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
   </a>
-  <a href="https://git-scm.com/" rel="nofollow">
+  <a href="https://git-scm.com/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   </a>
 </p>
 
 **Design / UI**
 <p align="left">
-  <a href="https://www.figma.com/" rel="nofollow">
+  <a href="https://www.figma.com/" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow">
+  <a href="https://www.adobe.com/products/photoshop.html" rel="nofollow" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
   </a>
 </p>
