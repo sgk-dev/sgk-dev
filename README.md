@@ -64,8 +64,3 @@
   <img src="https://cdn.simpleicons.org/gmail" width="20"/>
   <a href="mailto:sidash.seo@gmail.com">sidash.seo@gmail.com</a>
 </p>
-
-<p style="display:flex;align-items:center;gap:8px;">
-  <img src="https://cdn.simpleicons.org/telegram" width="20"/>
-  <a href="https://t.me/SidashGK">t.me/SidashGK</a>
-</p>
